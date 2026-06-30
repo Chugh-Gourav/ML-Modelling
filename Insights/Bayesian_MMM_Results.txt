@@ -1,0 +1,17 @@
+BAYESIAN MMM RESULTS
+
+                          Feature  Bayesian_Weight  HDI_Lower_3%  HDI_Upper_97%
+0               Special_Sale_Flag            0.358         0.158          0.572
+1         Sponsorship_Adstock_Log            0.300         0.003          0.612
+2    Online marketing_Adstock_Log            0.146         0.000          0.382
+3                             NPS            0.125        -0.301          0.593
+4          Affiliates_Adstock_Log            0.121         0.000          0.325
+5                 SEM_Adstock_Log            0.117         0.000          0.281
+6               Radio_Adstock_Log            0.101         0.000          0.240
+7             Digital_Adstock_Log            0.093         0.000          0.237
+8                  TV_Adstock_Log            0.088         0.000          0.233
+9               Other_Adstock_Log            0.082         0.000          0.194
+10  Content Marketing_Adstock_Log            0.080         0.000          0.206
+11                 Base_Intercept            0.002        -0.183          0.207
+
+R-squared: 0.4744
